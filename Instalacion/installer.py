@@ -122,7 +122,8 @@ if inst == 'Y':
     run("chmod +x *")
     print(f'{color}> {reset}{color}[{Fore.GREEN}Cloud{Fore.LIGHTMAGENTA_EX}@{Fore.GREEN}System{color}]{gray}: EJECUTANDO CNC{Fore.GREEN} ') 
     time.sleep(4)
-    run("python3 .\cnc.py")
+    run("cd ..")
+    run("python3 cnc_demo.py")
 elif inst == 'N':
     close()
 
