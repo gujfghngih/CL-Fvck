@@ -31,7 +31,7 @@
 
 ***//////////////////Install//////////////////////////***
 
-```git clone https://github.com/gujfghngih/CL-Fvck.git && cd CL-Fvck && pip install pyarmor && cd Instalacion && python installer.py```
+```git clone https://github.com/gujfghngih/CL-Fvck.git && cd CL-Fvck && pip install pyarmor && cd Instalacion && python3 installer.py```
 
 ***//////////////////Credits Bypasses, Algunos Metodos Layer7//////////////////////////***
 
